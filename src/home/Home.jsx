@@ -1,6 +1,7 @@
 import './Home.scss'
 import React from 'react'
 import Navbar from '../components/navbar/Navbar'
+import Featured from '../components/featured/Featured'
 
 const Home = () => {
     return (
@@ -11,43 +12,7 @@ const Home = () => {
             src="https://trendsinusa.com/wp-content/uploads/2018/01/Anonymous-hacker-profile-picture.jpg"
             alt=""
           />
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis ipsa ducimus cupiditate animi illum, culpa debitis sint reprehenderit voluptatem deleniti suscipit ex accusantium nihil, odio vero ullam sunt quod consequatur?
+          <Featured/>
         </div>
     )
 }
